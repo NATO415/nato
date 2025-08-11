@@ -1,0 +1,2 @@
+# nato
+Setting up Github 
